@@ -4,8 +4,8 @@ role: PhD Student in Politics
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - ComparativePolitics
-  - HistoricalPoliticalEconomy
+  - Comparative Politics
+  - Historical Political Economy
 social:
   - icon: envelope
     icon_pack: fas
