@@ -5,7 +5,7 @@ bio: ""
 interests:
   - Comparative Politics
   - Historical Political Economy
-  - Political Economy of Development
+  - Development
   - Ethnic Politics
 social:
   - icon: envelope
