@@ -38,6 +38,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a 4th year PhD student in the Wilf Family Department of Politics, New York University.
+I am a 4th year PhD student in the Wilf Family Department of Politics, New York University. I study Comparative Politics and Historical Political Economy.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
