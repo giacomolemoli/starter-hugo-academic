@@ -5,7 +5,7 @@ bio: ""
 interests:
   - Comparative Politics
   - Historical Political Economy
-  - Development
+  - Political Development
   - Ethnic Politics
 social:
   - icon: envelope
@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Politics
       institution: New York University
-      year: ""
+      year: "ongoing"
     - course: MSc Economic and Social Sciences
       institution: Bocconi University
       year: 2017
