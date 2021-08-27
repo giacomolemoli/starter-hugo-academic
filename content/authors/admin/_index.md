@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Politics
       institution: New York University
-      year: "ongoing"
+      year: ongoing
     - course: MSc Economic and Social Sciences
       institution: Bocconi University
       year: 2017
@@ -38,6 +38,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a 4th year PhD student in the Wilf Family Department of Politics, New York University.
+I am a 4th year PhD student in the Wilf Family Department of Politics, New York University. I study Comparative Politics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
