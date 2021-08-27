@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
 title: Publications
 subtitle: ''
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
     exclude_featured: true
 design:
