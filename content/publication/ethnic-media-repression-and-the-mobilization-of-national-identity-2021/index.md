@@ -3,7 +3,7 @@ title: Ethnic Media, Repression, and the Mobilization of National Identity (2021
 publication_types:
   - "3"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
