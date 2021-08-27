@@ -1,6 +1,5 @@
 ---
-title: "Terrorist Attacks, Cultural Incidents and the Vote for Radical Right (2021)
-  Parties: Analyzing Text from Twitter"
+title: "Terrorist Attacks, Cultural Incidents and the Vote for Radical Right Parties: Analyzing Text from Twitter (2021)"
 subtitle: with Francesco Giavazzi, Felix Iglhaut and Gaia Rubera
 publication_types:
   - "3"
