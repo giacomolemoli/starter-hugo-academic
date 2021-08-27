@@ -1,7 +1,9 @@
 ---
-title: Ethnic Media, Repression, and the Mobilization of National Identity (2021)
+title: Ethnic Media, Repression, and the Mobilization of National Identity
 publication_types:
   - "3"
+authors:
+  - Giacomo Lemoli
 draft: false
 featured: true
 image:
