@@ -5,6 +5,8 @@ bio: ""
 interests:
   - Comparative Politics
   - Historical Political Economy
+  - Political Development
+  - Ethnic Politics
 social:
   - icon: envelope
     icon_pack: fas
