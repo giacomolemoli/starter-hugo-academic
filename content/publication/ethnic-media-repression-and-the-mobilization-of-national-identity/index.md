@@ -5,9 +5,9 @@ publication_types:
 authors:
   - Giacomo Lemoli
 draft: false
-featured: true
+featured: false
 image:
-  filename: featured
+  filename: bi_news.png
   focal_point: Smart
   preview_only: false
 date: 2021-08-31T19:17:32.511Z
