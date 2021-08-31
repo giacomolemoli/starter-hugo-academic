@@ -9,7 +9,7 @@ authors:
   - Giacomo Lemoli
   - Gaia Rubera
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
