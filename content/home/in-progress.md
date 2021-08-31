@@ -23,8 +23,8 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: ''
-    publication_type: 'Work in Progress'
+    category: '3'
+    publication_type: ''
     author: ''
     exclude_featured: false
 design:
