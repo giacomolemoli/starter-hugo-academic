@@ -7,6 +7,8 @@ authors:
   - Giacomo Lemoli
 draft: false
 featured: true
+categories:
+  - Work in Progress
 image:
   filename: featured
   focal_point: Smart
