@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Giacomo Lemoli
 draft: false
-featured: false
+featured: true
 image:
   filename: bi_news.png
   focal_point: Smart
