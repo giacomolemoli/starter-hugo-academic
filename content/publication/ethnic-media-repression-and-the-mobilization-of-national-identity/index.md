@@ -6,6 +6,8 @@ authors:
   - Giacomo Lemoli
 draft: false
 featured: true
+categories:
+  - Working paper
 image:
   filename: bi_news.png
   focal_point: Smart
