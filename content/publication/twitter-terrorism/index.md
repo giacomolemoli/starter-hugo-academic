@@ -3,7 +3,7 @@ title: Terrorist Attacks, Cultural Incidents, and the Vote for Radical Parties: 
 publication_types:
   - "3"
 authors:
-  - Francesco Giavazzi, Felix Iglhaut, Giacomo Lemoli and Gaia Rubera
+  - Francesco Giavazzi, Felix Iglhaut, Giacomo Lemoli, Gaia Rubera
 draft: false
 featured: true
 image:
