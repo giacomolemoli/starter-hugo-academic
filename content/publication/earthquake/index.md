@@ -1,6 +1,5 @@
 ---
-title: Can Natural Disasters Have Long-lasting Consequences? Evidence from a Massive
-Earthquake in Early Modern Sicily 
+title: Can Natural Disasters Have Long-lasting Consequences? Evidence from a Massive Earthquake in Early Modern Sicily 
 publication_types:
   - "3"
 authors:
