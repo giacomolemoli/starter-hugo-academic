@@ -1,3 +1,4 @@
+---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
@@ -23,7 +24,7 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: '3'
+    category: 'Work in Progress'
     publication_type: ''
     author: ''
     exclude_featured: false
