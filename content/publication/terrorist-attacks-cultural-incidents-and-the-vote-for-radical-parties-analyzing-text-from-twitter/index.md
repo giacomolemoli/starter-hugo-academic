@@ -12,6 +12,8 @@ authors:
 publication: Revise and Resubmit, American Journal of Political Science
 draft: false
 featured: true
+categories:
+  - Working paper
 image:
   filename: featured
   focal_point: Smart
