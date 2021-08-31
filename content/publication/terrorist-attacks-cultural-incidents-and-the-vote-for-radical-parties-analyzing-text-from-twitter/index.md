@@ -1,7 +1,7 @@
 ---
 title: "Terrorist Attacks, Cultural Incidents, and the Vote for Radical Parties:
   Analyzing Text from Twitter"
-subtitle: "[Revise and Resubmit, American Journal of Political Science]"
+subtitle: ""
 publication_types:
   - "3"
 authors:
