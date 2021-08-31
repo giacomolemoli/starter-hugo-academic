@@ -24,8 +24,8 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: ''
-    publication_type: '3'
+    category: 'Working paper'
+    publication_type: ''
     author: ''
     exclude_featured: false
 design:
