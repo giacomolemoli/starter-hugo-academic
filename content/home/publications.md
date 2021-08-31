@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Publications
+title: Working papers
 subtitle: ''
 
 content:
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: '2'
+    publication_type: '3'
     author: ''
     exclude_featured: true
 design:
