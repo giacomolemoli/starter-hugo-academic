@@ -9,6 +9,7 @@ authors:
   - Felix Iglhaut
   - Giacomo Lemoli
   - Gaia Rubera
+publication: Revise and Resubmit, American Journal of Political Science
 draft: false
 featured: true
 image:
