@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Giacomo Lemoli
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
