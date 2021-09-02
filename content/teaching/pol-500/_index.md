@@ -10,6 +10,8 @@ date: 2018-09-09
 
 type: book
 
+toc: false
+
 weight: 30
 
 ---
