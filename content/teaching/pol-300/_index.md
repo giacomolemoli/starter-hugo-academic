@@ -1,5 +1,4 @@
 ---
-
 # Page title
 title: POL-UA 300: Power & Politics in America (Prof. Jonathan Nagler)
 
