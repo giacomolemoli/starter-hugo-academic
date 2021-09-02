@@ -1,4 +1,5 @@
 ---
+
 # Page title
 title: POL-UA 500 Introduction to Comparative Politics (Prof. Joshua Tucker)
 
@@ -16,4 +17,5 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 30
+
 ---
