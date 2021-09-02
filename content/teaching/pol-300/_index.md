@@ -1,4 +1,5 @@
 ---
+
 # Page title
 title: POL-UA 300: Power & Politics in America (Prof. Jonathan Nagler)
 
@@ -14,6 +15,6 @@ date: 2018-09-09
 # Book page type (do not modify).
 type: book
 
-# Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 10
+
 ---
