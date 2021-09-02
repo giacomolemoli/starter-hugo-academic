@@ -1,6 +1,6 @@
 ---
 # Page title
-title: POL-UA 500: Introduction to Comparative Politics (Prof. Joshua Tucker)
+title: POL-UA 500 Introduction to Comparative Politics (Prof. Joshua Tucker)
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: pol-500
