@@ -9,8 +9,8 @@ featured: true
 categories:
   - Working paper
 image:
-  filename: bi_news.png
-  focal_point: Smart
+  filename: screenshot_rpl.png
+  focal_point: Center
   preview_only: false
 date: 2021-08-31T19:17:32.511Z
 ---
