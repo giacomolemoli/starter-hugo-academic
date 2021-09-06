@@ -40,4 +40,4 @@ highlight_name: false
 ---
 I am a 4th year PhD student in the Wilf Family Department of Politics, New York University. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Lemoli.pdf" "newtab" >}}CV{{< /staticref >}}.
