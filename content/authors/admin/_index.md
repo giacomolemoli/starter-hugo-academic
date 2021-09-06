@@ -38,6 +38,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a 4th year PhD student in the Wilf Family Department of Politics, New York University. 
+I am a 4th year PhD student in the Wilf Family Department of Politics, New York University, and affiliated with the {{< staticref "https://www.identities-ideologies.org/" "newtab" >}}Identities and Ideologies project{{< /staticref >}}. In my research I study how institutions, political actors and local memories make ethnic and linguistic boundaries become salient, and the consequences for political competition and mobilization in culturally diverse societies. I use historical natural experiments and data from Europe, with a geographic focus on modern Spain, the Basque Country, Slovenia and Croatia. Methodologically, I like to combine econometric methods for causal inference and the use of original archival data to measure cultural traits. Another line of my work focuses on élites persistence and political development.
+
+My work has been funded by the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Lemoli.pdf" "newtab" >}}CV{{< /staticref >}}.
