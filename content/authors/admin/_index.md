@@ -31,7 +31,7 @@ education:
     - course: MSc Economic and Social Sciences
       institution: Bocconi University
       year: 2017
-    - course: BSc in International Economics, Management and Finance
+    - course: BSc International Economics, Management and Finance
       institution: Bocconi University
       year: 2014
 email: ""
