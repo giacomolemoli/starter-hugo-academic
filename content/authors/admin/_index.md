@@ -43,6 +43,6 @@ I am a 4th year PhD student in the {{< staticref "https://as.nyu.edu/politics.ht
 
 I use historical natural experiments and data from Europe, with a geographic focus on modern Spain, the Basque Country, Slovenia and Croatia. Methodologically, I like to combine econometric methods for causal inference and the use of original archival data to measure cultural traits. Another line of my work focuses on élites persistence and political development.
 
-My research has been funded by the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
+My research has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}} and the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Lemoli.pdf" "newtab" >}}CV{{< /staticref >}}.
