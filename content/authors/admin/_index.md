@@ -1,7 +1,7 @@
 ---
 title: Giacomo Lemoli
 role: PhD Student in Politics
-avatar_filename: "glemoli.jpg"
+avatar_filename: "avatar.jpg"
 bio: ""
 interests:
   - Comparative Politics
