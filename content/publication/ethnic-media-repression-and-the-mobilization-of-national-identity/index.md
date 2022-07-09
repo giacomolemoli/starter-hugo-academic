@@ -1,5 +1,5 @@
 ---
-title: Ethnic Media, Repression, and the Mobilization of National Identity
+title: Ethnic Media, Repression, and the Mobilization of Ethnic Identity
 publication_types:
   - "3"
 authors:
