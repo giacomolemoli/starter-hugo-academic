@@ -19,4 +19,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-08-31T19:48:05.233Z
+links:
+  - icon_pack: fas
+    name: 'Older NBER working paper'
+    url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550973'
 ---
