@@ -12,7 +12,7 @@ image:
   filename: screenshot_rpl.png
   focal_point: Center
   preview_only: true
-date: ""2022-01-01T00:00:00Z""
+date: "2022-01-01T00:00:00Z"
 ---
 
 ## Abstract
