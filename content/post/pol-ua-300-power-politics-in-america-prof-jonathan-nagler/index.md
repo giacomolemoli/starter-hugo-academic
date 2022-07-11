@@ -10,6 +10,6 @@ image:
   preview_only: false
 links: 
 - name: 'Syllabus'
-  url: "uploads/syllabi/syl_ppa_2021_fall.pdf"
+  url: uploads/syllabi/syl_ppa_2021_fall.pdf
 ---
 The course covers political institutions and behavior in the United States, and introduces students to analytical concepts and approaches useful for the study of American Politics. I was teaching assistant in two sections.
