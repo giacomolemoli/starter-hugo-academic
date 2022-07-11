@@ -10,7 +10,7 @@ categories:
   - Working paper
 image:
   filename: featured.png
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 date: "2022-01-01T00:00:00Z"
 ---
