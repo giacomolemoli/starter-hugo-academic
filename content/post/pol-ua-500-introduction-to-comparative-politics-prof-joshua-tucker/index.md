@@ -10,6 +10,6 @@ image:
   preview_only: false
 links:
 - name: Syllabus
-  url: uploads/syllabi/UA_500_Comparative_Fall_2020_Syllabus_08_29.pdf
+  url: https://giacomolemoli.com/uploads/syllabi/UA_500_Comparative_Fall_2020_Syllabus_08_29.pdf
 ---
 The course introduces students to the study of Comparative Politics, with a focus on the process of democratic transition, its causes and threats to democratic consolidation. I was teaching assistant in two sections and held a lecture on quantitative research methodology in Political Science.
