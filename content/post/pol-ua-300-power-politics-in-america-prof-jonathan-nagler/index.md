@@ -8,5 +8,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links: 
+- name: 'Syllabus'
+  url: "uploads/CV_Lemoli.pdf"
 ---
 The course covers political institutions and behavior in the United States, and introduces students to analytical concepts and approaches useful for the study of American Politics. I was teaching assistant in two sections.
