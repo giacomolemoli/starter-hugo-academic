@@ -11,7 +11,7 @@ categories:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: "2022-01-01T00:00:00Z"
 ---
 
