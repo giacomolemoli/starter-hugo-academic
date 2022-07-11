@@ -9,7 +9,7 @@ featured: true
 categories:
   - Working paper
 image:
-  filename: screenshot_rpl.png
+  filename: "gure xabiertxo.png""
   focal_point: Center
   preview_only: true
 date: "2022-01-01T00:00:00Z"
