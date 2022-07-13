@@ -1,5 +1,5 @@
 ---
-title: The Political Legacy of Inter-group Civilian Violence
+title: The Political Legacy of Violent Inter-group Contact
 publication_types:
   - "3"
 authors:
