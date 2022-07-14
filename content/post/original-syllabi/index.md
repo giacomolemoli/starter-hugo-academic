@@ -9,6 +9,6 @@ image:
   preview_only: false
 links:
 - name: 'Comparative Politics of Identity'
-  url: https://giacomolemoli.com/uploads/syllabi/Lemoli_Syllabus.pdf
+  url: https://giacomolemoli.com/uploads/syllabi/Syllabus_Lemoli.pdf
 ---
 As part of the PhD program requirements, I have written an original syllabus for a graduate-level course. 
