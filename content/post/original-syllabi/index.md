@@ -1,6 +1,5 @@
 ---
 title: Sample syllabi
-subtitle: Fall 2022
 date: 2022-01-024T18:17:11.674Z
 draft: false
 featured: true
