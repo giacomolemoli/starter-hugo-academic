@@ -3,7 +3,7 @@ title: Data Teaching Assistant
 subtitle: Spring 2020
 date: 2021-09-02T09:59:42.827Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

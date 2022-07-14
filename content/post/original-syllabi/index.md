@@ -1,0 +1,15 @@
+---
+title: Sample syllabi
+subtitle: Fall 2022
+date: 2022-01-024T18:17:11.674Z
+draft: false
+featured: true
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+links:
+- name: 'Comparative Politics of Identity'
+  url: https://giacomolemoli.com/uploads/syllabi/Lemoli_Syllabus.pdf
+---
+As part of the PhD program requirements, I have written an original syllabus for a graduate-level course. 
