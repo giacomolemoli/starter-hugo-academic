@@ -16,4 +16,4 @@ links:
 - name: Syllabus
   url: https://giacomolemoli.com/uploads/syllabi/quant 2 spring 2022.pdf
 ---
-Central course in the PhD quantitative methods sequence. Covers causal inference in social science research, focusing on non-parametric and semi-parametric methods and frequentist inference. I was course assistant and prepared original lab material, with a focus on simulation and replication.
+Central course in the Politics PhD quantitative methods sequence. Covers causal inference in social science research, focusing on non-parametric and semi-parametric methods and frequentist inference. I was course assistant and prepared original lab material with examples, simulation, and replication using R and Stata.
