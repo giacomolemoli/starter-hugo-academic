@@ -12,4 +12,4 @@ links:
 - name: 'Syllabus'
   url: https://giacomolemoli.com/uploads/syllabi/Syllabus_850_Spring21.pdf
 ---
-The course introduces students to quantitative techniques for the scientific study of politics, from basic data visualization to regression analysis and causal interpretation, using the software R. I was teaching assistant in two sections.
+The course introduces students to quantitative techniques for the scientific study of politics, from basic data visualization to regression analysis and causal interpretation, using R language. I was teaching assistant in two sections.

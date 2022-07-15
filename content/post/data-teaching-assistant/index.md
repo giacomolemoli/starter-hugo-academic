@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I served as consultant to undergraduate students in the NYU Politics Department for class projects involving data analysis and prepared teaching material in R and STATA.
+I served as consultant to undergraduate students in the NYU Politics Department for class projects involving data analysis and prepared teaching material for classes in R and Stata.
