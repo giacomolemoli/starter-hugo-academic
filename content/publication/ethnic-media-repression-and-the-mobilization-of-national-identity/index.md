@@ -4,6 +4,7 @@ publication_types:
   - "3"
 authors:
   - Giacomo Lemoli
+publication: New Draft coming soon
 draft: false
 featured: true
 categories:
@@ -13,6 +14,9 @@ image:
   focal_point: Smart
   preview_only: false
 date: "2022-01-01T00:00:00Z"
+links:
+  - name: 'Draft'
+    url: https://giacomolemoli.com/uploads/wp/Basque_radio_v3.pdf
 ---
 
 ## Abstract
