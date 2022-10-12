@@ -1,6 +1,6 @@
 ---
 title: Giacomo Lemoli
-role: PhD Student in Politics
+role: PhD Candidate in Politics
 avatar_filename: "avatar.jpg"
 bio: ""
 interests:
@@ -39,9 +39,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD candidate in the {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}Wilf Family Department of Politics{{< /staticref >}}, New York University, and affiliated with the {{< staticref "https://www.identities-ideologies.org/" "newtab" >}}Identities and Ideologies Project{{< /staticref >}}. I hold a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
+I am a PhD candidate in the {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}Wilf Family Department of Politics{{< /staticref >}}, New York University, and a student affiliate to the {{< staticref "https://www.identities-ideologies.org/" "newtab" >}}Identities and Ideologies Project{{< /staticref >}}. I hold a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
-In my research I study how institutions, political actors, and local memories affect the salience of ethnic and linguistic boundaries, and the consequences for political competition and mobilization in culturally diverse societies. I am particularly interested in the mechanisms connecting historical experiences to contemporary identities and behavior. Another line of my work focuses on élites persistence and political development.  
+In my research, I study how state institutions, information, and local memories affect the salience of ethnic and linguistic boundaries, and the consequences for political competition and mobilization in culturally diverse societies. I am particularly interested in the mechanisms connecting historical experiences to contemporary identities and behavior. Another line of my work focuses on elites' persistence and political development.  
 
 I use historical natural experiments and data from South and Eastern Europe, with a primary geographic focus on modern Spain, the Basque Country, and post-war Italy. Methodologically, I like to combine econometric methods for causal inference and the use of original archival data to measure cultural diversity.
 
