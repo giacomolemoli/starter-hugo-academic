@@ -18,7 +18,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-31T19:48:05.233Z
+date: "2022-01-01T00:00:00Z"
 links:
   - name: 'Old working paper version'
     url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550973'

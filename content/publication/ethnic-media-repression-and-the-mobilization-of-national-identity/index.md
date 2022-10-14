@@ -13,7 +13,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: "2022-01-01T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 links:
   - name: 'Draft'
     url: https://giacomolemoli.com/uploads/wp/Basque_radio_sep2022.pdf
