@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Gloria Gennaro
   - Giacomo Lemoli
-publication: Preliminary draft available upon request. Pilot survey in progress.
+publication: Preliminary draft available upon request. Pilot survey in progress
 draft: false
 featured: true
 categories:
