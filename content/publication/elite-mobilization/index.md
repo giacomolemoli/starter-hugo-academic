@@ -1,5 +1,5 @@
 ---
-title: Elites, social identities, and mobilization in diverse societies 
+title: Elites, Social Identities, and Mobilization in Diverse Societies 
 publication_types:
   - "3"
 authors:
