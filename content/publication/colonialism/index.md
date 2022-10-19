@@ -1,5 +1,5 @@
 ---
-title: Indirect rule and the colonial origins of religious cleavages 
+title: Indirect Rule and the Colonial Origins of Religious Cleavages 
 publication_types:
   - "3"
 authors:
