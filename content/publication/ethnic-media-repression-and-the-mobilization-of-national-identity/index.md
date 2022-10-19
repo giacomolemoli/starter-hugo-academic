@@ -4,7 +4,7 @@ publication_types:
   - "3"
 authors:
   - Giacomo Lemoli
-publication: Submitted
+publication: *Submitted*
 draft: false
 featured: true
 categories:
