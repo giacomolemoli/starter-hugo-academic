@@ -5,6 +5,7 @@ publication_types:
 authors:
   - Giacomo Lemoli
   - Sergi Martínez
+publication: Data collection in progress
 draft: false
 featured: true
 categories:

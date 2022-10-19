@@ -7,6 +7,7 @@ authors:
   - Paola Giuliano
   - Giacomo Lemoli
   - Shanker Satyanath
+publication: Draft available upon request
 draft: false
 featured: true
 categories:
