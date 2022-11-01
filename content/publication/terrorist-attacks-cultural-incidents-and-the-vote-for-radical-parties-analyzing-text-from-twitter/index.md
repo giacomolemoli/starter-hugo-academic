@@ -20,7 +20,11 @@ image:
   preview_only: false
 date: "2022-01-01T00:00:00Z"
 links:
-  - name: 'Old working paper version'
+  - name: 'Pdf'
+    url: https://giacomolemoli.com/uploads/wp/Terrorist attacks/manuscript.pdf
+  - name: 'Online Appendix'
+    url: https://giacomolemoli.com/uploads/wp/Terrorist attacks/appendix.pdf
+  - name: 'Older working paper version'
     url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550973'
 ---
 
