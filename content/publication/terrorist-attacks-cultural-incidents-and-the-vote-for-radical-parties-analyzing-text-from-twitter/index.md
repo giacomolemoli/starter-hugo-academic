@@ -20,7 +20,7 @@ image:
   preview_only: false
 date: "2022-01-01T00:00:00Z"
 links:
-  - name: 'Pdf'
+  - name: 'PDF'
     url: https://giacomolemoli.com/uploads/wp/Terrorist attacks/manuscript.pdf
   - name: 'Online Appendix'
     url: https://giacomolemoli.com/uploads/wp/Terrorist attacks/appendix.pdf

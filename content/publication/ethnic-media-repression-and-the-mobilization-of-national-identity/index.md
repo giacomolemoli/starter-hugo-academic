@@ -15,7 +15,7 @@ image:
   preview_only: false
 date: "2022-02-01T00:00:00Z"
 links:
-  - name: 'Draft'
+  - name: 'PDF'
     url: https://giacomolemoli.com/uploads/wp/Basque_radio_sep2022.pdf
 ---
 
