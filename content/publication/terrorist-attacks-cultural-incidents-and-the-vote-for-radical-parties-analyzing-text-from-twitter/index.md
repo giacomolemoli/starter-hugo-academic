@@ -9,11 +9,11 @@ authors:
   - Felix Iglhaut
   - Giacomo Lemoli
   - Gaia Rubera
-publication: Conditionally Accepted, American Journal of Political Science
+publication: forthcoming, American Journal of Political Science
 draft: false
 featured: true
 categories:
-  - Working paper
+  - Publication
 image:
   filename: featured
   focal_point: Smart
