@@ -41,9 +41,9 @@ highlight_name: false
 ---
 I am a PhD candidate in the {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}Wilf Family Department of Politics{{< /staticref >}}, New York University, and a student affiliate to the {{< staticref "https://www.identities-ideologies.org/" "newtab" >}}Identities and Ideologies Project{{< /staticref >}}. I hold a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
-In my research, I study how state institutions, information, and local memories affect the salience of ethnic and linguistic boundaries, and the consequences for political competition and mobilization in culturally diverse societies. I am particularly interested in the mechanisms connecting historical experiences to contemporary identities and behavior. Another line of my work focuses on elites' persistence and political development.  
+In my research, I study how state institutions, information, and local memories affect the salience of ethnic and linguistic boundaries, and the consequences for political competition and mobilization in culturally diverse societies. I am particularly interested in the mechanisms connecting historical experiences to contemporary behavior. Another line of my work focuses on the effects of elites' power on collective identity and political development.  
 
-I use historical natural experiments and data from South and Eastern Europe, with a primary geographic focus on modern Spain, the Basque Country, and post-war Italy. Methodologically, I like to combine econometric methods for causal inference and the use of original archival data to measure cultural diversity.
+I use historical natural experiments and data from South and Eastern Europe, with a primary geographic focus on modern Spain, the Basque Country, and post-war Italy. Methodologically, I like to combine econometric methods for causal inference, survey experiments, and original archival data to measure cultural diversity.
 
 
 My research has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}} and the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
