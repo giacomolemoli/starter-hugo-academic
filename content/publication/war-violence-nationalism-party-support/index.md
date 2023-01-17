@@ -1,5 +1,5 @@
 ---
-title: War Violence, Nationalism, and Party Support: Evidence from Italy
+title: War Violence, Nationalism, and Party Support. Evidence from Italy
 publication_types:
   - "3"
 authors:
