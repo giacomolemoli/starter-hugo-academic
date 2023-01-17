@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Giacomo Lemoli
   - Gloria Gennaro
-publication: Incomplete draft. Survey PAP coming soon.
+publication: Preliminary draft. Survey PAP coming soon.
 draft: false
 featured: true
 categories:
