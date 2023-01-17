@@ -1,11 +1,11 @@
 ---
-title: War Violence, Nationalism, and Party Support. Evidence from Italy
+title: 'War Violence, Nationalism, and Party Support: Evidence from Italy'
 publication_types:
   - "3"
 authors:
   - Giacomo Lemoli
   - Gloria Gennaro
-publication: Preliminary draft. Survey PAP coming soon.
+publication: Preliminary draft. Survey PAP coming soon
 draft: false
 featured: true
 categories:
