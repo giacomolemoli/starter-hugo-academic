@@ -15,6 +15,9 @@ image:
   focal_point: Smart
   preview_only: false
 date: "2023-01-01T00:00:00Z"
+links:
+  - name: 'PDF'
+    url: https://www.wider.unu.edu/publication/war-violence-nationalism-and-party-support
 ---
 
 ## Abstract
