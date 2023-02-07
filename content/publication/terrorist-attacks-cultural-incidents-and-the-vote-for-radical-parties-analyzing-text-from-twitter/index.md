@@ -20,6 +20,8 @@ image:
   preview_only: false
 date: "2022-01-01T00:00:00Z"
 links:
+  - name: 'Journal version'
+    url: https://onlinelibrary.wiley.com/doi/10.1111/ajps.12764
   - name: 'PDF'
     url: https://giacomolemoli.com/uploads/wp/Terrorist attacks/manuscript.pdf
   - name: 'Online Appendix'
