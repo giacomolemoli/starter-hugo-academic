@@ -9,7 +9,7 @@ authors:
   - Felix Iglhaut
   - Giacomo Lemoli
   - Gaia Rubera
-publication: Forthcoming, American Journal of Political Science
+publication: American Journal of Political Science
 draft: false
 featured: true
 categories:
