@@ -14,7 +14,7 @@ links:
 - name: 'Course page'
   url: https://cyrussamii.com/?page_id=3650
 - name: Syllabus
-  url: https://giacomolemoli.com/uploads/syllabi/quant 2 spring 2022.pdf
+  url: https://giacomolemoli.com/uploads/syllabi/quant_2_spring_2023.pdf
 ---
 Central course in the Politics PhD quantitative methods sequence. Covers causal inference in social science research, focusing on non-parametric and semi-parametric methods and frequentist inference. I was course assistant and prepared original lab material with examples, simulation, and replication using R and Stata.
 Please contact me for Spring 2022 lab material.
