@@ -1,5 +1,5 @@
 ---
-title: Elites, Social Identities, and Mobilization in Diverse Societies 
+title: Conservative Elites, Political Identities, and Mobilization: Evidence from the Spanish Civil War 
 publication_types:
   - "3"
 authors:
