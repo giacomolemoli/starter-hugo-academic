@@ -5,8 +5,7 @@ avatar_filename: "avatar.jpg"
 bio: ""
 interests:
   - Comparative Politics
-  - Historical Political Economy
-  - Political Development
+  - Political Economy
   - Ethnic Politics
 social:
   - icon: envelope
@@ -28,7 +27,7 @@ education:
   courses:
     - course: PhD in Politics
       institution: New York University
-      year: ongoing
+      year: 2023
     - course: MSc Economic and Social Sciences
       institution: Bocconi University
       year: 2017
@@ -39,6 +38,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+
 I have recently received my PhD from the {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}Wilf Family Department of Politics{{< /staticref >}}, New York University, where I am also a student affiliate to the {{< staticref "https://www.identities-ideologies.org/" "newtab" >}}Identities and Ideologies Project{{< /staticref >}}. In September 2023 I will join the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}} as a Research Fellow.
 I hold a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
