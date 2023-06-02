@@ -44,7 +44,7 @@ I hold a MSc in Economic and Social Sciences from {{< staticref "https://www.uni
 
 My research studies the construction and change of group identities, and their implications for political competition, mobilization, and development in contemporary societies. I am particularly interested in how political elites and mass media shape the salience of ethnic and linguistic boundaries, and in how collective memories affect behavior. 
 
-I combine econometric tools for causal inference, surveys, and original archival data to measure cultural diversity. My primary geographic focus is on modern Spain, the Basque Country, and post-war Italy.
+I combine econometric tools for causal inference, surveys, and original archival data to measure cultural diversity. My primary geographic focus is on contemporary Spain and Italy, and the Basque Country.
 
 My research has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}} and the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
 
