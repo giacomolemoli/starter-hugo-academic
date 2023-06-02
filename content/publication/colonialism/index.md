@@ -4,7 +4,7 @@ publication_types:
   - "3"
 authors:
   - Giacomo Lemoli
-publication: Data analysis in progress
+publication: In progress
 draft: false
 featured: true
 categories:
