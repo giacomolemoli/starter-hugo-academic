@@ -39,12 +39,12 @@ superuser: true
 highlight_name: false
 ---
 
-I have recently received my PhD from the {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}Wilf Family Department of Politics{{< /staticref >}}, New York University, where I am also a student affiliate to the {{< staticref "https://www.identities-ideologies.org/" "newtab" >}}Identities and Ideologies Project{{< /staticref >}}. In September 2023 I will join the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}} as a Research Fellow.
+I have recently received my PhD from the {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}Wilf Family Department of Politics{{< /staticref >}}, New York University, where I was also a student affiliate to the {{< staticref "https://www.identities-ideologies.org/" "newtab" >}}Identities and Ideologies Project{{< /staticref >}}. In September 2023 I will join the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}} as a Research Fellow.
 I hold a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
 My research studies the construction and change of group identities, and their implications for political competition, mobilization, and development in contemporary societies. I am particularly interested in how political elites and mass media shape the salience of ethnic and linguistic boundaries, and in how collective memories affect behavior. 
 
-I combine econometric tools for causal inference, surveys, and original archival data to measure cultural diversity. My primary geographic focus is on contemporary Spain and Italy, and the Basque Country.
+I use econometric tools for causal inference on contemporary and archival data, as well as original surveys. My primary geographic focus is on contemporary Spain and Italy.
 
 My research has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}} and the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
 
