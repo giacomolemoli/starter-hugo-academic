@@ -1,24 +1,24 @@
 {
-    "id": "D80D0835",
-    "path": "~/GitHub/starter-hugo-academic/README.md",
-    "project_path": "README.md",
+    "id": "C0DB1A99",
+    "path": "~/GitHub/starter-hugo-academic/content/authors/_index.md",
+    "project_path": "content/authors/_index.md",
     "type": "markdown",
-    "hash": "2955208710",
+    "hash": "3553817799",
     "contents": "",
     "dirty": false,
-    "created": 1653563151698.0,
+    "created": 1693405718562.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 7,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643080696,
+    "lastKnownWriteTime": 1629998173,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643080696,
+    "last_content_update": 1629998173,
     "read_only": false,
     "read_only_alternatives": []
 }
