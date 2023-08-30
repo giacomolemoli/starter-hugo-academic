@@ -1,6 +1,6 @@
 ---
 title: Giacomo Lemoli
-role: Incoming Research Fellow
+role: Research Fellow
 avatar_filename: "avatar.jpg"
 bio: ""
 interests:
@@ -39,7 +39,7 @@ superuser: true
 highlight_name: false
 ---
 
-In September 2023 I will join the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}} as a Postdoctoral Research Fellow. I hold a PhD in Politics from {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}New York University{{< /staticref >}} and a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
+From September 1, 2023 I will be a Postdoctoral Research Fellow at the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}}. I hold a PhD in Politics from {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}New York University{{< /staticref >}} and a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
 My research studies the construction and change of group identities, and their implications for political competition, mobilization, and development in contemporary societies. I am particularly interested in how political elites and mass media shape the salience of ethnic and linguistic boundaries, and in how collective memories affect behavior. 
 
