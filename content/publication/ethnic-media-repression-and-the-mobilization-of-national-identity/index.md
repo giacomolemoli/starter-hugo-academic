@@ -16,7 +16,7 @@ image:
 date: "2023-02-01T00:00:00Z"
 links:
   - name: 'PDF'
-    url: https://giacomolemoli.com/uploads/wp/Basque_radio_feb2023.pdf
+    url: https://osf.io/8rbz2/
 ---
 
 ## Abstract
