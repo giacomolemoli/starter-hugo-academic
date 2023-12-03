@@ -5,8 +5,10 @@ avatar_filename: "avatar.jpg"
 bio: ""
 interests:
   - Comparative Politics
-  - Political Economy
+  - Political Economy 
   - Ethnic Politics
+  - Development
+  - Historical Political Economy
 social:
   - icon: envelope
     icon_pack: fas
