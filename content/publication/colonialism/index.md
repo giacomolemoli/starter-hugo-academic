@@ -1,9 +1,11 @@
 ---
-title: Indirect Rule and the Colonial Origins of Religious Cleavages 
+title: (Pre-)Colonial Origins of Religious Cleavages 
 publication_types:
   - "3"
 authors:
+  - Jubril Animashaun
   - Giacomo Lemoli
+  - Constantine Manda
 publication: In progress
 draft: false
 featured: true
