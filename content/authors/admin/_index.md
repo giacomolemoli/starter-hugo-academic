@@ -36,7 +36,7 @@ education:
     - course: BSc International Economics, Management and Finance
       institution: Bocconi University
       year: 2014
-email: ""
+email: "giacomo.lemoli@iast.fr"
 superuser: true
 highlight_name: false
 ---
