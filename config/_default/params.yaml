@@ -25,12 +25,12 @@ address:
   street: 1, Esplanade de l'Université
   city: Toulouse
   region:
-  postcode:
+  postcode: 31080
   country: France
   country_code: FR
 coordinates:
-  latitude: ''
-  longitude: ''
+  latitude: '43.605001994042176'
+  longitude: '1.4350518299273325'
 directions:
 office_hours:
 appointment_url: ''
