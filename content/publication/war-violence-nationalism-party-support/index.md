@@ -16,6 +16,8 @@ image:
   preview_only: false
 date: "2024-01-01T00:00:00Z"
 links:
+  - name: 'Pre-analysis plan'
+    url: https://osf.io/x2gkd
   - name: 'Old version'
     url: https://www.wider.unu.edu/publication/war-violence-nationalism-and-party-support
 ---
