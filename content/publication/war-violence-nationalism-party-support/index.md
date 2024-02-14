@@ -14,7 +14,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: "2024-01-01T00:00:00Z"
+date: "2024-01-31T00:00:00Z"
 links:
   - name: 'Pre-analysis plan'
     url: https://osf.io/x2gkd
