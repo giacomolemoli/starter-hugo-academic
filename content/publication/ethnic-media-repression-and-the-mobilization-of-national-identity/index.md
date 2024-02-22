@@ -4,7 +4,7 @@ publication_types:
   - "3"
 authors:
   - Giacomo Lemoli
-publication: Revise & Resubmit, Comparative Political Studies
+publication: Conditionally accepted, Comparative Political Studies
 draft: false
 featured: true
 categories:
