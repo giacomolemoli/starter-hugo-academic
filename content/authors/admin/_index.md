@@ -45,7 +45,7 @@ I am a Postdoctoral Research Fellow at the {{< staticref "https://www.iast.fr/" 
 
 My research studies the construction and change of group identities, and their implications for political competition, mobilization, and development in contemporary societies. I am particularly interested in how political elites and mass media shape the salience of ethnic and linguistic boundaries, and in how collective memories affect behavior. 
 
-I use econometric tools for causal inference on contemporary and archival data, as well as original surveys. 
+I use econometric tools for causal inference on contemporary and archival data, as well as experimental methods. 
 
 My research has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}} and the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
 
