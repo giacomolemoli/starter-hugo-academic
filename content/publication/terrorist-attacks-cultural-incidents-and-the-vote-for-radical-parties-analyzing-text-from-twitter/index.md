@@ -28,7 +28,7 @@ links:
     url: https://giacomolemoli.com/uploads/wp/Terrorist attacks/appendix.pdf
   - name: 'Older working paper version'
     url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550973'
-  - name: 'Replication material'
+  - name: 'Replication materials'
     url: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VA00ZI'
 ---
 
