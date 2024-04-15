@@ -4,11 +4,11 @@ publication_types:
   - "3"
 authors:
   - Giacomo Lemoli
-publication: Conditionally accepted, Comparative Political Studies
+publication: Forthcoming, Comparative Political Studies
 draft: false
 featured: true
 categories:
-  - Working paper
+  - Publication
 image:
   filename: featured.png
   focal_point: Smart
