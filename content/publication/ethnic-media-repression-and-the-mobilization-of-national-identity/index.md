@@ -4,7 +4,7 @@ publication_types:
   - "3"
 authors:
   - Giacomo Lemoli
-publication: Forthcoming, Comparative Political Studies
+publication: Comparative Political Studies
 draft: false
 featured: true
 categories:
@@ -15,8 +15,12 @@ image:
   preview_only: false
 date: "2024-02-01T00:00:00Z"
 links:
+  - name: 'Journal version'
+    url: https://journals.sagepub.com/doi/10.1177/00104140241252076
   - name: 'PDF'
     url: https://osf.io/8rbz2/
+  - name: 'Replication materials'
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PWOAK4
 ---
 
 ## Abstract
