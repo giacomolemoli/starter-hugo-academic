@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Giacomo Lemoli
   - Gloria Gennaro
-publication: New version coming soon
+publication: Working paper
 draft: false
 featured: true
 categories:
