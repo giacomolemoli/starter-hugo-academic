@@ -43,9 +43,9 @@ highlight_name: false
 
 I am a Postdoctoral Research Fellow at the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}}. I hold a PhD in Politics from {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}New York University{{< /staticref >}} and a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
-My research studies the construction and change of group identities, and their implications for political competition, mobilization, and development in contemporary societies. I am particularly interested in how political elites and mass media shape the salience of ethnic and linguistic boundaries, and in how collective memories affect behavior. 
+My research studies the formation and change of social cleavages and identities, and their implications for contemporary societies. I have primary interests in the politics of ethnic and linguistic boundaries and in the inter-generational transmission of political preferences through collective memory. 
 
-I use econometric tools for causal inference on contemporary and archival data, as well as experimental methods. 
+I use econometric tools for causal inference, archival fieldwork, and experimental methods. 
 
 My research has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}} and the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
 

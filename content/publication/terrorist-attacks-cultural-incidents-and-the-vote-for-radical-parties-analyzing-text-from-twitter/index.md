@@ -18,7 +18,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: "2023-01-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 links:
   - name: 'Journal version'
     url: https://onlinelibrary.wiley.com/doi/10.1111/ajps.12764
