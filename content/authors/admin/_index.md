@@ -45,7 +45,7 @@ I am a Postdoctoral Research Fellow at the {{< staticref "https://www.iast.fr/" 
 
 My research studies the formation and change of social cleavages and identities, and their implications for contemporary societies. I have primary interests in the politics of ethnic and linguistic boundaries and in the inter-generational transmission of political preferences through collective memory. 
 
-I use econometric tools for causal inference, archival fieldwork, and experimental methods. 
+I like to combine econometric tools for causal inference, archival fieldwork, and experimental methods. 
 
 My research has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}} and the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}.
 
