@@ -1,5 +1,5 @@
 ---
-title: Political Consequences of Natural Disasters: Evidence from a Massive Earthquake in Early Modern History 
+title: 'Political Consequences of Natural Disasters: Evidence from a Massive Earthquake in Early Modern History'
 publication_types:
   - "3"
 authors:
