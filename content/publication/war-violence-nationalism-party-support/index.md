@@ -14,7 +14,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: "2025-10-06T00:00:00Z"
+date: "2025-06-10T00:00:00Z"
 links:
   - name: 'PDF'
     url: https://osf.io/preprints/osf/983es
