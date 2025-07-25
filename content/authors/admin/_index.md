@@ -8,7 +8,6 @@ interests:
   - Political Economy 
   - Ethnic Politics
   - Development
-  - Historical Political Economy
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,7 +15,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/giacomolem
-  - icon: square-bluesky
+  - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/giacomolem.bsky.social
   - icon: graduation-cap
@@ -49,10 +48,10 @@ highlight_name: false
 
 I am a Postdoctoral Research Fellow at the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}}. I hold a PhD in Politics from {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}New York University{{< /staticref >}} and a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
-I study how social and political institutions and networks affect participation and conflict. My current work focuses on the politics of ethnic and linguistic boundaries in modern states and the dynamics of social influence in and after violence. I also work on the political economy of development.
+I study how social institutions and networks affect political participation and conflict. My current work focuses on the politics of ethnic and linguistic boundaries in modern states and the dynamics of social influence during and after violence. I also work on the political economy of development.
 
-I am interested in the combination of econometric tools, data science, archival fieldwork, and experiments for measurement and tests of causal theories. 
+I am interested in the combination of econometric tools, data science, archival fieldwork, and experiments for measurement and theory testing. 
 
-My research is published or forthcoming at *American Journal of Political Science* and *Comparative Political Studies* and has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}}, the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}, and other institutions.
+My research is published or forthcoming at the *American Journal of Political Science* and *Comparative Political Studies* and has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}}, the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}, and other institutions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Lemoli.pdf" "newtab" >}}CV{{< /staticref >}}.
