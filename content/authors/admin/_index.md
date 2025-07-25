@@ -49,7 +49,7 @@ highlight_name: false
 
 I am a Postdoctoral Research Fellow at the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}}. I hold a PhD in Politics from {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}New York University{{< /staticref >}} and a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
-I study how social and political institutions and networks affect participation and conflict. My current work focuses primarily on the politics of ethnic and linguistic boundaries in modern states and the dynamics of social influence in and after violence. I also work on the political economy of development.
+I study how social and political institutions and networks affect participation and conflict. My current work focuses on the politics of ethnic and linguistic boundaries in modern states and the dynamics of social influence in and after violence. I also work on the political economy of development.
 
 I am interested in the combination of econometric tools, data science, archival fieldwork, and experiments for measurement and tests of causal theories. 
 
