@@ -16,12 +16,18 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/giacomolem
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/giacomolem.bsky.social
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.it/citations?user=fTgXdvcAAAAJ&hl=it
   - icon: github
     icon_pack: fab
     link: https://github.com/giacomolemoli
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-2748-7862
 organizations:
   - name: Institute for Advanced Study in Toulouse
     url: https://www.iast.fr/
@@ -43,9 +49,9 @@ highlight_name: false
 
 I am a Postdoctoral Research Fellow at the {{< staticref "https://www.iast.fr/" "newtab">}}Institute for Advanced Study in Toulouse{{< /staticref >}}. I hold a PhD in Politics from {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}New York University{{< /staticref >}} and a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
-My research studies the formation and change of social cleavages and identities, and their implications for contemporary societies. I have primary interests in the politics of ethnic and linguistic boundaries and in the mechanisms of inter-generational transmission of political preferences. I am also interested in the political economy of institutions and development.
+I study how social and political institutions and networks affect participation and conflict. My current work focuses primarily on the politics of ethnic and linguistic boundaries in modern states and the dynamics of social influence in and after violence. I also work on the political economy of development.
 
-I like to combine econometric tools for causal inference, archival fieldwork, and experimental methods. 
+I am interested in the combination of econometric tools, data science, archival fieldwork, and experiments for measurement and tests of causal theories. 
 
 My research is published or forthcoming at *American Journal of Political Science* and *Comparative Political Studies* and has been funded by {{< staticref "https://www.wider.unu.edu/" "newtab" >}}UNU-WIDER{{< /staticref >}}, the {{< staticref "https://theihs.org/" "newtab" >}}Institute for Humane Studies{{< /staticref >}}, and other institutions.
 
