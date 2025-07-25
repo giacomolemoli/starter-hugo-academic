@@ -16,7 +16,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/giacomolem
-  - icon: bluesky
+  - icon: square-bluesky
     icon_pack: fab
     link: https://bsky.app/profile/giacomolem.bsky.social
   - icon: graduation-cap
