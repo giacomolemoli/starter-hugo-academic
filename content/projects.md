@@ -6,3 +6,5 @@ type: "page"
 ---
 
 ...under construction...
+
+{{< publications >}}
