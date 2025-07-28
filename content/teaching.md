@@ -8,8 +8,8 @@ type: "page"
 <h2>New York University</h2>
 <h3>Graduate</h3>
 <ul>
-  <li> POL-GA 1251: Quantitative Political Analysis II <a href="https://github.com/giacomolemoli/quant2-labs-spring-2023" class="btn btn-outline-primary" target="_blank">Lab material</a>  <a href="https://giacomolemoli.com/uploads/syllabi/quant_2_spring_2023.pdf" class="btn btn-outline-primary" target="_blank"> Syllabus </a> </li>
-  <li> POL-GA 1120: Quantitative Analysis I </li>
+  <li> POL-GA 1251: Quantitative Political Analysis II <a href="https://github.com/giacomolemoli/quant2-labs-spring-2023" class="btn btn-outline-primary" target="_blank">Lab material</a>  <a href="https://giacomolemoli.com/uploads/syllabi/quant_2_spring_2023.pdf" class="btn btn-outline-primary" target="_blank">Syllabus</a> </li>
+  <li> POL-GA 1120: Quantitative Analysis I <a href="https://giacomolemoli.com/uploads/syllabi/Syllabus_Quant1_fa22.pdf" class="btn btn-outline-primary" target="_blank">Syllabus</a> </li>
 </ul>
 
 <h3>Undergraduate</h3>
