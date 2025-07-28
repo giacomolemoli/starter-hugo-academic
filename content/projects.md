@@ -2,7 +2,7 @@
 title: "Projects"
 menu: main
 weight: 50
-type: page
+type: "page"
 ---
 
 ...under construction...
