@@ -14,8 +14,8 @@ type: "page"
 
 <h3>Undergraduate</h3>
 <ul>
-  <li> POL-UA 300: Power & Politics in America <a href="https://giacomolemoli.com/uploads/syllabi/syl_ppa_2021_fall.pdf" class="btn btn-outline-primary" target="_blank>Syllabus</a> </li>
-  <li> POL-UA 850: Introduction to Research Methods for Politics <a href="https://giacomolemoli.com/uploads/syllabi/Syllabus_850_Spring21.pdf" class="btn btn-outline-primary" target="_blank>Syllabus</a>  </li>
-  <li> POL-UA 500: Introduction to Comparative Politics <a href="https://giacomolemoli.com/uploads/syllabi/UA_500_Comparative_Fall_2020_Syllabus_08_29.pdf" class="btn btn-outline-primary" target="_blank>Syllabus</a> </li>
+  <li> POL-UA 300: Power & Politics in America <a href="https://giacomolemoli.com/uploads/syllabi/syl_ppa_2021_fall.pdf" class="btn btn-outline-primary" target="_blank">Syllabus</a> </li>
+  <li> POL-UA 850: Introduction to Research Methods for Politics <a href="https://giacomolemoli.com/uploads/syllabi/Syllabus_850_Spring21.pdf" class="btn btn-outline-primary" target="_blank">Syllabus</a>  </li>
+  <li> POL-UA 500: Introduction to Comparative Politics <a href="https://giacomolemoli.com/uploads/syllabi/UA_500_Comparative_Fall_2020_Syllabus_08_29.pdf" class="btn btn-outline-primary" target="_blank">Syllabus</a> </li>
   <li> Data Teaching Assistant for the Politics Department </li>
 </ul>
