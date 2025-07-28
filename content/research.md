@@ -1,8 +1,9 @@
 ---
+widget: pages
 title: "Research"
-menu: main
+active: true
+headless: false
 weight: 40
-type: "page"
 
 content:
   page_type: publication
@@ -16,5 +17,5 @@ content:
     author: ''
     exclude_featured: false
 design:
-  view: 4  # 4 = Citation view
+  view: 4
 ---
