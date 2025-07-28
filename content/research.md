@@ -30,15 +30,15 @@ type: "page"
   <li>
   <strong>Collective Memories of Violence and Political Attitudes: Evidence from a World War II Frontline </strong><br>
   Giacomo Lemoli and Gloria Gennaro (2025) <br>
-  <a href="https://osf.io/preprints/osf/983es" class="btn btn-outline-primary target="_blank">PDF</a>
-  <a href="https://osf.io/x2gkd" class="btn btn-outline-primary target="_blank">PAP</a>
-  <a href="https://www.wider.unu.edu/publication/war-violence-nationalism-and-party-support" class="btn btn-outline-primary target="_blank">Outdated version</a>
+  <a href="https://osf.io/preprints/osf/983es" class="btn btn-outline-primary" target="_blank">PDF</a>
+  <a href="https://osf.io/x2gkd" class="btn btn-outline-primary" target="_blank">PAP</a>
+  <a href="https://www.wider.unu.edu/publication/war-violence-nationalism-and-party-support" class="btn btn-outline-primary" target="_blank">Outdated version</a>
   </li>
   <li>  
   <strong>Penalties for Particularism and Partisanship? Citizens' Preferences for Legal Punishment of Clientelism </strong><br>
   Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2025) <br>
-  <a href="https://osf.io/preprints/socarxiv/avtqh_v1" class="btn btn-outline-primary target="_blank">PDF</a>
-  <a href="https://osf.io/sn4jf" class="btn btn-outline-primary target="_blank">PAP</a>
+  <a href="https://osf.io/preprints/socarxiv/avtqh_v1" class="btn btn-outline-primary" target="_blank">PDF</a>
+  <a href="https://osf.io/sn4jf" class="btn btn-outline-primary" target="_blank">PAP</a>
   </li>
   <li>
   <strong>Political Consequences of Natural Disasters: Evidence from a Massive Earthquake in Early Modern History</strong><br>
