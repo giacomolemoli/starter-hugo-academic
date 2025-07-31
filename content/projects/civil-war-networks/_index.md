@@ -2,7 +2,7 @@
 title: "Social networks in the Spanish Civil War"
 type: "page"
 image:
-  filename: abaigar_network.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 links:
