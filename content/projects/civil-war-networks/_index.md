@@ -1,6 +1,10 @@
 ---
 title: "Social networks in the Spanish Civil War"
 type: "page"
+image:
+  filename: abaigar_network.png
+  focal_point: Smart
+  preview_only: false
 links:
   - name: 'Project progress slides'
     url: https://giacomolemoli.com/uploads/slides/civil-war-networks/epsa25_jueves.html
