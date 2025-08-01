@@ -1,5 +1,6 @@
 ---
 title: "Social networks in the Spanish Civil War"
+summary: "Exploring the effects of pre-war networks on war participation and violence"
 type: "page"
 image:
   filename: featured.png
