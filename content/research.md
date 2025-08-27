@@ -60,4 +60,8 @@ type: "page"
   <strong> Networks and Dynamics of Violent Political Mobilization: Historical Evidence from Spain </strong><br>
   Giacomo Lemoli and Sergi Martínez (2025) <br>
   </li>
+  <li>
+  <strong>Measuring Language Use in Space</strong><br>
+  Giacomo Lemoli (2025) <br>
+  </li>
 </ul>
