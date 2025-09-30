@@ -30,7 +30,7 @@ type: "page"
   <li> 
   <strong>Linguistic Rights and the Borders of Political Identity</strong><br>
   Giacomo Lemoli (2025) <br>
-  <a href="https://www.dropbox.com/scl/fi/8se6qm6gncax6jnn64v2w/language_zones_APSA_2025.pdf?rlkey=5t9ay68dozq53thjuwsjfl91g&st=1lc80a0i&dl=0" class="btn btn-outline-primary" target="_blank">PDF</a>
+  <a href="https://osf.io/preprints/socarxiv/3fbzh_v1" class="btn btn-outline-primary" target="_blank">PDF</a>
   </li>
   <li>
   <strong>Collective Memories of Violence and Political Attitudes: Evidence from a World War II Frontline </strong><br>
