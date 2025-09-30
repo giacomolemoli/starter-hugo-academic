@@ -30,5 +30,4 @@ design:
   
 ---
 
-...under construction...
 
