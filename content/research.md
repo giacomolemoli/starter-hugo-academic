@@ -27,6 +27,11 @@ type: "page"
 
 <h2>Working Papers</h2>
 <ul>
+  <li> 
+  <strong>Linguistic Rights and the Borders of Political Identity</strong><br>
+  Giacomo Lemoli (2025) <br>
+  < href="https://osf.io/preprints/socarxiv/3fbzh_v1" class="btn btn-outline-primary" target="_blank">PDF</a>
+  </li>
   <li>
   <strong>Collective Memories of Violence and Political Attitudes: Evidence from a World War II Frontline </strong><br>
   Giacomo Lemoli and Gloria Gennaro (2025) <br>
@@ -51,10 +56,6 @@ type: "page"
   <li> 
   <strong>Does Ethnopartisan Bias Govern Normative Evaluations of Clientelistic Actions?</strong><br>
   Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2025) <br>
-  </li>
-  <li> 
-  <strong>Linguistic Rights and the Borders of Political Identity</strong><br>
-  Giacomo Lemoli (2025) <br>
   </li>
   <li> 
   <strong> Networks and Dynamics of Violent Political Mobilization: Historical Evidence from Spain </strong><br>
