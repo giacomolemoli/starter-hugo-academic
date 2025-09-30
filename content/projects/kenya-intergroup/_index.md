@@ -17,4 +17,7 @@ In this project, joint with <a href="https://www.jeremy-horowitz.com/" target="_
   <li>
     <a href="https://osf.io/preprints/socarxiv/avtqh_v1" target="_blank">Working paper</a>
   </li>
+  <li>
+    <a href="https://osf.io/cq89y/" target="_blank">Project repository</a>
+  </li>
 </ul>
