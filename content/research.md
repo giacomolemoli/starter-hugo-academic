@@ -30,7 +30,7 @@ type: "page"
   <li> 
   <strong>Linguistic Rights and the Borders of Political Identity</strong><br>
   Giacomo Lemoli (2025) <br>
-  < href="https://osf.io/preprints/socarxiv/3fbzh_v1" class="btn btn-outline-primary" target="_blank">PDF</a>
+  <a href="https://osf.io/preprints/socarxiv/3fbzh_v1" class="btn btn-outline-primary" target="_blank">PDF</a>
   </li>
   <li>
   <strong>Collective Memories of Violence and Political Attitudes: Evidence from a World War II Frontline </strong><br>
