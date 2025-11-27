@@ -48,13 +48,7 @@ highlight_name: false
 
 I am a Postdoctoral Researcher at {{< staticref "https://www.fus.edu/" "newtab">}}Franklin University Switzerland{{< /staticref >}}, where I work on the SNSF-funded project {{< staticref "https://data.snf.ch/grants/grant/10003605" "newtab">}}DIVIDE{{< /staticref >}}, led by <a href="https://oliverstrijbis.com/" target="_blank">Oliver Strijbis</a>. Before that, I was a Research Fellow at the {{< staticref "https://www.iast.fr/" "newtab" >}}Institute for Advanced Study in Toulouse{{< /staticref >}}. I hold a PhD in Politics from {{< staticref "https://as.nyu.edu/politics.html" "newtab" >}}New York University{{< /staticref >}} and a MSc in Economic and Social Sciences from {{< staticref "https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/" "newtab" >}}Bocconi University{{< /staticref >}}. 
 
-I study how social institutions and networks affect political participation and conflict. The main focus of my current work is:
-
-- The politics of ethnic and linguistic boundaries in modern states
-
-- Social influence in networks during and after violence
-
-I also work on the political economy of development.
+I study how social institutions and networks affect political participation and conflict. My current work focuses on the politics of ethnic and linguistic boundaries in modern states and on social influence during and after violence.
 
 I am interested in combining design-based econometric analysis, data science, archival fieldwork, and experiments to test social scientific theories and enhance measurement. 
 
