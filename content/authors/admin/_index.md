@@ -54,7 +54,7 @@ I study how social institutions and networks affect political participation and 
 
 - Social influence in networks during and after violence
 
-I am also interested in the political economy of development.
+I also work on the political economy of development.
 
 I am interested in combining design-based econometric analysis, data science, archival fieldwork, and experiments to test social scientific theories and enhance measurement. 
 
