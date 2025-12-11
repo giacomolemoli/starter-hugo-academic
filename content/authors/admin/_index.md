@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:giacomo.lemoli@iast.fr
+    link: mailto:glemoli@fus.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/giacomolem
