@@ -5,6 +5,12 @@ weight: 50
 type: "page"
 ---
 
+<h2>Franklin</h2>
+<h3>Undergraduate</h3>
+<ul>
+  <li> POL-377: International Political Economy </li>
+</ul>
+
 <h2>New York University</h2>
 <h3>Graduate</h3>
 <ul>
