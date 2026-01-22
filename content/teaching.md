@@ -8,7 +8,7 @@ type: "page"
 <h2>Franklin</h2>
 <h3>Undergraduate</h3>
 <ul>
-  <li> POL-377: International Political Economy </li>
+  <li> POL-377: International Political Economy <a href="https://github.com/giacomolemoli/fus-pol-377" class="btn btn-outline-primary" target="_blank">Course materials</a></li>
 </ul>
 
 <h2>New York University</h2>
