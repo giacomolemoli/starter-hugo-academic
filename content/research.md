@@ -54,15 +54,16 @@ type: "page"
 <h2>Work in Progress</h2>
 <ul>
   <li> 
-  <strong>Does Ethnopartisan Bias Govern Normative Evaluations of Clientelistic Actions?</strong><br>
-  Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch (2025) <br>
+  <strong>Ethnic Bias and Partisan Bias in Kenya: Evidence from Lab and Survey Experiments</strong><br>
+  Jeremy Horowitz, Giacomo Lemoli, and Kristin Michelitch <br>
   </li>
   <li> 
   <strong> Networks and Dynamics of Violent Political Mobilization: Historical Evidence from Spain </strong><br>
-  Giacomo Lemoli and Sergi Martínez (2025) <br>
+  Giacomo Lemoli and Sergi Martínez <br>
   </li>
   <li>
-  <strong>Measuring Language Use in Space</strong><br>
-  Giacomo Lemoli (2025) <br>
+  <strong>Measuring Group Segregation and Contact in Space Through Names, Symbols, and Pictures</strong><br>
+  <em>Cosmos x IHS AI-Accelerated Scholarship Program Grant</em><br>
+  Violeta Haas and Giacomo Lemoli <br>
   </li>
 </ul>
